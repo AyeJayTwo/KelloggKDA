@@ -108,6 +108,8 @@ These are some recommended resources in order to quickly self-learn and get up t
   * [CodeSchool R Tutorial](https://www.codeschool.com/courses/try-r) : An online interactive tutorial that requires no downloads and will walk you through the basics of data analysis in R. Great for beginners and people completely new to the tool.
   * [R for Data Science](http://r4ds.had.co.nz/index.html): A complete online book about using R for data science. This covers all the basics of data science, as well as providing complete examples and demos
   * [swirl](http://swirlstats.com/): swirl is actually a package in R that teaches you how to program and fundamentals of data science within your console. If you want to learn R, or even brush up on your skills, try it out.
+  * [Intro to R with DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
+  * [Intermediate R with DataCamp)[https://www.datacamp.com/courses/intermediate-r]
 
 #### ggplot
   
@@ -120,10 +122,18 @@ ggplot isi the de-facto charting library for programming languages (you'll also 
 
 Tidyverse is a collection of libraries for R designed for data science. It's a heavily used library and you should definitely be familiar with it. 
 
-  *[Official site](https://www.tidyverse.org)
+  * [Official site](https://www.tidyverse.org)
   
-  [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
+  * [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
+  
+#### dplyr
 
+Dplyr is a collection of tools to help data scientists quickly slice and dice, analyze, and interpret large datasets. 
+
+  * [Official site](http://dplyr.tidyverse.org/)
+  
+  * [Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
+  
 #### Other
   
   * [Correlation Matrix](http://www.sthda.com/english/wiki/correlation-matrix-a-quick-start-guide-to-analyze-format-and-visualize-a-correlation-matrix-using-r-software)
